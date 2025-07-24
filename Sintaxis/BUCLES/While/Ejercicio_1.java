@@ -1,4 +1,4 @@
-package BUCLES;
+package BUCLES.While;
 
 public class Ejercicio_1 {
 
